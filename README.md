@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pasang396
+- 👋 Hi, I’m Pasang Sherpa
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning programming language.
 - 💞️ I’m looking to collaborate on small projects to contribute what I am skilled to.
